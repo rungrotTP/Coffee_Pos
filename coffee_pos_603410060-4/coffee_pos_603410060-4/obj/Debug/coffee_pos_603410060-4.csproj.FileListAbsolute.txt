@@ -1,0 +1,10 @@
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\obj\Debug\coffee_pos_603410060-4.csprojResolveAssemblyReference.cache
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\obj\Debug\coffee_pos_603410060_4.Form1.resources
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\obj\Debug\coffee_pos_603410060_4.Properties.Resources.resources
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\obj\Debug\coffee_pos_603410060-4.csproj.GenerateResource.Cache
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\obj\Debug\coffee_pos_603410060-4.csproj.CoreCompileInputs.cache
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\bin\Debug\coffee_pos_603410060-4.exe.config
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\bin\Debug\coffee_pos_603410060-4.exe
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\bin\Debug\coffee_pos_603410060-4.pdb
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\obj\Debug\coffee_pos_603410060-4.exe
+C:\Users\พีท\Desktop\C# O\coffee_pos_603410060-4\coffee_pos_603410060-4\obj\Debug\coffee_pos_603410060-4.pdb
